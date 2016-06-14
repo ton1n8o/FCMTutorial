@@ -1,2 +1,3 @@
 # FCMTutorial
-Firebase Cloud Messaging tutorial 
+
+Firebase Cloud Messaging project showing the initial setup required to start working with Google Firebase Cloud Messaging.
